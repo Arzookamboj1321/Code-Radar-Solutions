@@ -1,5 +1,5 @@
 // Your code here...
-#include <bits/stdc++.h>
+#include <studio.h>
 using namespace std;
 
 // Function that returns true if vector is
