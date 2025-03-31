@@ -1,4 +1,6 @@
 #include <stdio.h>
+int main()
+{
 
 void findMinMax(int arr[], int n, int *max, int *min)
  {
