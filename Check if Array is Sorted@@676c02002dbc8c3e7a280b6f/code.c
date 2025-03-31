@@ -1,9 +1,6 @@
 // Your code here...
 #include<stdio.h>
-using namespace std;
 
-// Function that returns true if vector is
-// sorted in non-decreasing order.
 bool isSorted(const vector<int>& arr)
 {
     // For an array to be sorted, every
