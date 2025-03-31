@@ -2,8 +2,7 @@
 int main()
 
 
-void findMinMax(int arr[], int n, int *max, int *min)
- {
+void findMinMax(int arr[], int n, int *max, int *min) {}
      *max = arr[0];
     *min = arr[0];
 
